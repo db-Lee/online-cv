@@ -28,14 +28,10 @@ sidebar:
     languages:
       - idiom: Korean
         level: Native
-
 experiences:
-    - degree: B.S in Computer Science
-      university: Korea University
-      time: 2012 - 2019
-    - degree: M.S in Artificial Intelligence
-      university: KAIST
+    - role: M.S in Artificial Intelligence Graudate School
       time: 2019 - present
+      Company: KAIST      
       details: |
         Supervised by Sung Ju Hwang
 
@@ -46,13 +42,6 @@ publications:
         link: "https://arxiv.org/abs/2005.13837"
         authors: Dong Bok Lee*, Seanie Lee*, Woo Tae Jeong, Donghwan Kim, Sung Ju Hwang
         conference: ACL 2020 (long papers)
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 90%
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
