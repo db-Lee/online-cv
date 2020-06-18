@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Dong Bok Lee
@@ -28,12 +28,35 @@ sidebar:
     languages:
       - idiom: Korean
         level: Native
-experiences:
-    - role: M.S in Graudate School of Artificial Intelligence
+      
+      - idiom: English
+        level: Intermediate
+        
+career-profile:
+    summary: |
+      I am master student at KAIST, working on natural language processing and machine learning. My supervisor is Sung Ju Hwang.
+
+education:
+    - degree: M.S. in Aritificial Intelligence
+      university: Korea Advanced Institute of Science and Technology
       time: 2019 - present
-      Company: KAIST      
       details: |
         Supervised by Sung Ju Hwang
+    - degree: B.S. in Computer Science
+      university: Korea University
+      time: 2012 - 2018
+      
+#experiences:
+    #- role: Research Intern
+      #time: 2019 - 2019
+      #Company: Korea Advanced Institute of Science and Technology
+      #details: |
+        #Supervised by Sung Ju Hwang
+    #- role: Research Intern
+      #time: 2017 - 2018
+      #Company: Korea University      
+      #details: |
+        #Supervised by SangKeun Lee
 
 publications:
     title: Publications
@@ -42,6 +65,13 @@ publications:
         link: "https://arxiv.org/abs/2005.13837"
         authors: Dong Bok Lee*, Seanie Lee*, Woo Tae Jeong, Donghwan Kim, Sung Ju Hwang
         conference: ACL 2020 (long papers)
+      
+      - title: Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
+        link: "https://arxiv.org/abs/2006.06648"
+        authors: Jinheon Baek, Dong Bok Lee, Sung Ju Hwang
+        conference: arXiv preprint
+    
+    
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
