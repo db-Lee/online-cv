@@ -65,7 +65,7 @@ publications:
         link: "https://arxiv.org/abs/2005.13837"
         authors: Dong Bok Lee*, Seanie Lee*, Woo Tae Jeong, Donghwan Kim, and Sung Ju Hwang
         conference: ACL 2020 (long papers)
-      - title: Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
+      - title: Learning to Extrapolate Knowledge
         link: "https://arxiv.org/abs/2006.06648"
         authors: Jinheon Baek, Dong Bok Lee, and Sung Ju Hwang
         conference: NeuRIPS 2020
