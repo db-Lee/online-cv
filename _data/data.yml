@@ -65,10 +65,10 @@ publications:
         link: "https://arxiv.org/abs/2005.13837"
         authors: Dong Bok Lee*, Seanie Lee*, Woo Tae Jeong, Donghwan Kim, and Sung Ju Hwang
         conference: ACL 2020 (long papers)
-      - title: Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
-        link: "https://arxiv.org/abs/2006.06648"
-        authors: Jinheon Baek, Dong Bok Lee, and Sung Ju Hwang
-        conference: NeurIPS 2020
+      - title: Learning to and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs
+        link: "https://arxiv.org/abs/2005.13837"
+        authors: Dong Bok Lee*, Seanie Lee*, Woo Tae Jeong, Donghwan Kim, and Sung Ju Hwang
+        conference: ACL 2020 (long papers)
       #- title: Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
       #  link: "https://arxiv.org/abs/2006.06648"
       #  authors: Jinheon Baek, Dong Bok Lee, and Sung Ju Hwang
