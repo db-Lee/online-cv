@@ -77,5 +77,8 @@ publications:
         link: "https://openreview.net/pdf?id=wS0UFjsNYjn"
         authors: Dong Bok Lee, Dongchan Min, Seanie Lee, and Sung Ju Hwang
         conference: ICLR 2021 (spotlight)
+      - title: "Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation"
+        authors: Dongchan Min, Dong Bok Lee, Eunho Yang, and Sung Ju Hwang
+        conference: ICML 2021
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
