@@ -34,12 +34,17 @@ sidebar:
         
 career-profile:
     summary: |
-      I am master student at KAIST, working on natural language processing and machine learning. My supervisor is Sung Ju Hwang.
+      I am phd student at KAIST, working on machine learning. My supervisor is Prof. Sung Ju Hwang.
 
 education:
+    - degree: Ph.D. in Aritificial Intelligence
+      university: Korea Advanced Institute of Science and Technology
+      time: 2019 - 2021
+      details: |
+        Supervised by Sung Ju Hwang
     - degree: M.S. in Aritificial Intelligence
       university: Korea Advanced Institute of Science and Technology
-      time: 2019 - present
+      time: 2019 - 2021
       details: |
         Supervised by Sung Ju Hwang
     - degree: B.S. in Computer Science
@@ -80,5 +85,16 @@ publications:
       - title: "Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation"
         authors: Dongchan Min, Dong Bok Lee, Eunho Yang, and Sung Ju Hwang
         conference: ICML 2021
+      - title: "Self-Supervised Set Representation Learning for Unsupervised Meta-Learning"
+        authors: Dong Bok Lee*, Seanie Lee*, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, Sung Ju Hwang
+        conference: ICLR 2023
+      - title: "Dataset Condensation with Latent Space Knowledge Factorization and Sharing"
+        link: https://arxiv.org/pdf/2208.10494.pdf
+        authors: Hae Beom Lee∗, Dong Bok Lee∗, Sung Ju Hwang
+        conference: arXiv 2023
+      - title: "Self-Supervised Set Representation Learning for Unsupervised Meta-Learning"
+        link: https://openreview.net/forum?id=kIAx30hYi_p
+        authors: Dong Bok Lee*, Seanie Lee*, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, Sung Ju Hwang
+        conference: ICLR 2023
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
