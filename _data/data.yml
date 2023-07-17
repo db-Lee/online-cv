@@ -85,9 +85,6 @@ publications:
       - title: "Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation"
         authors: Dongchan Min, Dong Bok Lee, Eunho Yang, and Sung Ju Hwang
         conference: ICML 2021
-      - title: "Self-Supervised Set Representation Learning for Unsupervised Meta-Learning"
-        authors: Dong Bok Lee*, Seanie Lee*, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, Sung Ju Hwang
-        conference: ICLR 2023
       - title: "Dataset Condensation with Latent Space Knowledge Factorization and Sharing"
         link: https://arxiv.org/pdf/2208.10494.pdf
         authors: Hae Beom Lee∗, Dong Bok Lee∗, Sung Ju Hwang
