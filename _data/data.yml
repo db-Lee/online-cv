@@ -93,5 +93,13 @@ publications:
         link: https://openreview.net/forum?id=kIAx30hYi_p
         authors: Dong Bok Lee*, Seanie Lee*, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, Sung Ju Hwang
         conference: ICLR 2023
+      - title: "Self-Supervised Dataset Distillation for Transfer Learning"
+        link: https://openreview.net/forum?id=h57gkDO2Yg
+        authors: Dong Bok Lee*, Seanie Lee*, Joonho Ko, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang
+        conference: ICLR 2024
+      - title: "Cost-Sensitive Multi-Fidelity Bayesian Optimization with Transfer of Learning Curve Extrapolation"
+        link: https://arxiv.org/abs/2405.17918
+        authors: Dong Bok Lee, Aoxuan Silvia Zhang, Byungjoo Kim, Junhyeon Park, Juho Lee, Sung Ju Hwang, Hae Beom Lee
+        conference: arXiv 2024
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
