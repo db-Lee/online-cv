@@ -101,5 +101,13 @@ publications:
         link: https://arxiv.org/abs/2405.17918
         authors: Dong Bok Lee, Aoxuan Silvia Zhang, Byungjoo Kim, Junhyeon Park, Juho Lee, Sung Ju Hwang, Hae Beom Lee
         conference: arXiv 2024
+      - title: "HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models"
+        link: https://openreview.net/pdf?id=y3zswp3gek
+        authors: Seanie Lee*, Haebin Seong*, Dong Bok Lee, Minki Kang, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, Sung Ju Hwang
+        conference: ICLR 2025
+      - title: "Dimensional Agnostic Neural Processes"
+        link: https://openreview.net/pdf?id=uGJxl2odR0
+        authors: Hyungi Lee, Chaeyun Jang, Dong bok Lee, Juho Lee
+        conference: ICLR 2025
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
