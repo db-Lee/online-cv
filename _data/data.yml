@@ -116,6 +116,6 @@ publications:
       - title: "Bayesian Neural Scaling Law Extrapolation with Prior-Data Fitted Networks"
         link: https://arxiv.org/abs/2505.23032
         authors: Dongwoo Lee*, Dong Bok Lee*, Steven Adriaensen, Juho Lee, Sung Ju Hwang, Frank Hutter, Seon Joo Kim, Hae Beom Lee
-        conference: ACL 2025 findings
+        conference: ICML 2025
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
