@@ -109,5 +109,13 @@ publications:
         link: https://openreview.net/pdf?id=uGJxl2odR0
         authors: Hyungi Lee, Chaeyun Jang, Dong bok Lee, Juho Lee
         conference: ICLR 2025
+      - title: "SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models"
+        link: https://arxiv.org/abs/2502.12464
+        authors: Seanie Lee*, Dong Bok Lee*, Dominik Wagner, Minki Kang, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang
+        conference: ACL 2025 findings
+      - title: "Bayesian Neural Scaling Law Extrapolation with Prior-Data Fitted Networks"
+        link: https://arxiv.org/abs/2505.23032
+        authors: Dongwoo Lee*, Dong Bok Lee*, Steven Adriaensen, Juho Lee, Sung Ju Hwang, Frank Hutter, Seon Joo Kim, Hae Beom Lee
+        conference: ACL 2025 findings
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
