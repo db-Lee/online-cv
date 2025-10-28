@@ -117,5 +117,13 @@ publications:
         link: https://arxiv.org/abs/2505.23032
         authors: Dongwoo Lee*, Dong Bok Lee*, Steven Adriaensen, Juho Lee, Sung Ju Hwang, Frank Hutter, Seon Joo Kim, Hae Beom Lee
         conference: ICML 2025
+      - title: "Cost-Sensitive Freeze-thaw Bayesian Optimization for Efficient Hyperparameter Tuning"
+        link: https://arxiv.org/abs/2510.21379
+        authors: Dong Bok Lee, Aoxuan Silvia Zhang*, Byungjoo Kim*, Junhyeon Park*, Steven Adriaensen, Juho Lee, Sung Ju Hwang, Hae Beom Lee
+        conference: NeurIPS 2025
+      - title: "FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA"
+        link: https://arxiv.org/abs/2505.12805
+        authors: Seanie Lee*, Sangwoo Park*, Dong Bok Lee*, Dominik Wagner, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang
+        conference: NeurIPS 2025
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
