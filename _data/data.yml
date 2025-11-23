@@ -26,14 +26,15 @@ career-profile:
       My research goal is to develop computationally and data-efficient machine learning models and algorithms for real-world applications, grounded in meta-learning and meta-modeling. I am particularly interested in extending these approaches to natural language processing, self-supervised learning, dataset condensation, hyperparameter optimization, AI safety, privacy, and multi-modal learning.
 
 experiences:
-    info:
-      - role: Research Intern
-        time: 2025 - 2025
-        company: Microsoft Research Asia
-        details: |
-          Advised by [Lei Song](https://www.microsoft.com/en-us/research/people/lesong/) and [Jiang Bian](https://www.microsoft.com/en-us/research/people/jiabia/).
-              - Multi-domain test-time scaling with reward models
-              - Online data selection
+  title: Experiences
+  info:
+  - role: Research Intern
+    time: "2025.07.01 - 2025.12.27"
+    company: Microsoft Research Asia
+    details: |
+      Advised by [Lei Song](https://www.microsoft.com/en-us/research/people/lesong/) and [Jiang Bian](https://www.microsoft.com/en-us/research/people/jiabia/).
+        - Multi-domain test-time scaling with reward models
+        - Online data selection
 
         
 education:
