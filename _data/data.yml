@@ -23,7 +23,7 @@ sidebar:
 
 career-profile:
     summary: |
-      My research goal is to develop computationally and data-efficient machine learning models and algorithms for real-world applications, grounded in meta-learning and meta-modeling. I am particularly interested in extending these approaches to natural language processing, self-supervised learning, dataset condensation, hyperparameter optimization, AI safety, privacy, and few-shot learning with VLMs.
+      My research goal is to develop computationally and data-efficient machine learning models and algorithms for real-world applications, grounded in meta-learning and meta-modeling. I am particularly interested in extending these approaches to natural language processing, self-supervised learning, dataset condensation, hyperparameter optimization, AI safety, privacy, and multi-modal learning.
 
 experiences:
   title: Experiences
