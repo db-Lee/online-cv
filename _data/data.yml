@@ -28,14 +28,15 @@ career-profile:
 experiences:
   title: Experiences
   info:
-    - role: Research Intern
-      time: 2025.07.01 – 2025.12.27
-      company: Microsoft Research Asia
-      details: |
-        Advised by [Lei Song](https://www.microsoft.com/en-us/research/people/lesong/)  
-        and [Jiang Bian](https://www.microsoft.com/en-us/research/people/jiabia/)
-        - Large-scale reward modeling & test-time scaling
-        - Online data selection
+  - role: Research Intern
+    time: "2025.07.01 - 2025.12.27"
+    company: Microsoft Research Asia
+    details: |
+      Advised by [Lei Song](https://www.microsoft.com/en-us/research/people/lesong/)
+      and [Jiang Bian](https://www.microsoft.com/en-us/research/people/jiabia/).
+      - Large-scale reward modeling and test-time scaling
+      - Online data selection
+
         
 education:
     - degree: Ph.D. in Artificial Intelligence
