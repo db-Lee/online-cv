@@ -3,145 +3,146 @@
 #
 
 sidebar:
-  about: True
-  education: False
+    about: True
+    education: False
 
-  # Profile information
-  name: Dong Bok Lee
-  avatar: dongbok.png  # place a 100x100 picture inside /assets/images/
+    # Profile information
+    name: Dong Bok Lee
+    avatar: dongbok.png  # place a 100x100 picture inside /assets/images/
 
-  # Sidebar links
-  email: markhi@kaist.ac.kr
-  phone: 82-10-8855-2857
-  github: db-Lee
+    # Sidebar links
+    email: markhi@kaist.ac.kr
+    phone: 82-10-8855-2857
+    github: db-Lee
 
-  languages:
-    - idiom: Korean
-      level: Native
-    - idiom: English
-      level: Intermediate
+    languages:
+      - idiom: Korean
+        level: Native
+      - idiom: English
+        level: Intermediate
 
 career-profile:
-  summary: |
-    My research goal is to develop computationally and data-efficient machine learning models and algorithms for real-world applications, grounded in meta-learning and meta-modeling. I am particularly interested in extending these approaches to natural language processing, self-supervised learning, dataset condensation, hyperparameter optimization, AI safety, privacy, and multi-modal learning.
+    summary: |
+      My research goal is to develop computationally and data-efficient machine learning models and algorithms for real-world applications, grounded in meta-learning and meta-modeling. I am particularly interested in extending these approaches to natural language processing, self-supervised learning, dataset condensation, hyperparameter optimization, AI safety, privacy, and multi-modal learning.
 
 experiences:
-  info:
-  - role: Research Intern
-    time: "2025.07.01 - 2025.12.27"
-    company: Microsoft Research Asia
-    details: |
-      Advised by [Lei Song](https://www.microsoft.com/en-us/research/people/lesong/) and [Jiang Bian](https://www.microsoft.com/en-us/research/people/jiabia/).
-        - Multi-domain test-time scaling with reward models
-        - Online data selection
+    title: Experiences
+    info:
+      - role: Research Intern
+        time: "2025.07.01 - 2025.12.27"
+        company: Microsoft Research Asia
+        details: |
+          Advised by [Lei Song](https://www.microsoft.com/en-us/research/people/lesong/) and [Jiang Bian](https://www.microsoft.com/en-us/research/people/jiabia/).
+              - Multi-domain test-time scaling with reward models
+              - Online data selection
 
+        
 education:
-  info:
-  - degree: Ph.D. in Artificial Intelligence
-    university: Korea Advanced Institute of Science and Technology
-    time: "2021 - Present"
-    details: |
-      Advised by [Sung Ju Hwang](http://www.sungjuhwang.com/)
-  - degree: M.S. in Artificial Intelligence
-    university: Korea Advanced Institute of Science and Technology
-    time: "2019 - 2021"
-    details: |
-      Advised by [Sung Ju Hwang](http://www.sungjuhwang.com/)
-  - degree: B.S. in Computer Science
-    university: Korea University
-    time: "2012 - 2018"
+    - degree: Ph.D. in Artificial Intelligence
+      university: Korea Advanced Institute of Science and Technology
+      time: 2021 – Present
+      details: |
+        Advised by [Sung Ju Hwang](http://www.sungjuhwang.com/)
+    - degree: M.S. in Artificial Intelligence
+      university: Korea Advanced Institute of Science and Technology
+      time: 2019 – 2021
+      details: |
+        Advised by [Sung Ju Hwang](http://www.sungjuhwang.com/)
+    - degree: B.S. in Computer Science
+      university: Korea University
+      time: 2012 – 2018
 
 publications:
-  title: Publications
-  papers:
-  - title: "Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs"
-    link: "https://arxiv.org/abs/2005.13837"
-    authors: Dong Bok Lee*, Seanie Lee*, Woo Tae Jeong, Donghwan Kim, and Sung Ju Hwang
-    conference: ACL 2020 (long papers)
+    title: Publications
+    papers:
+      - title: "Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs"
+        link: "https://arxiv.org/abs/2005.13837"
+        authors: Dong Bok Lee*, Seanie Lee*, Woo Tae Jeong, Donghwan Kim, and Sung Ju Hwang
+        conference: ACL 2020 (long papers)
 
-  - title: "Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction"
-    link: "https://arxiv.org/abs/2006.06648"
-    authors: Jinheon Baek, Dong Bok Lee, and Sung Ju Hwang
-    conference: NeurIPS 2020
+      - title: "Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction"
+        link: "https://arxiv.org/abs/2006.06648"
+        authors: Jinheon Baek, Dong Bok Lee, and Sung Ju Hwang
+        conference: NeurIPS 2020
 
-  - title: "Contrastive Learning with Adversarial Perturbations for Conditional Text Generation"
-    link: "https://openreview.net/pdf?id=Wga_hrCa3P3"
-    authors: Seanie Lee*, Dong Bok Lee*, and Sung Ju Hwang
-    conference: ICLR 2021
+      - title: "Contrastive Learning with Adversarial Perturbations for Conditional Text Generation"
+        link: "https://openreview.net/pdf?id=Wga_hrCa3P3"
+        authors: Seanie Lee*, Dong Bok Lee*, and Sung Ju Hwang
+        conference: ICLR 2021
 
-  - title: "Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning"
-    link: "https://openreview.net/pdf?id=wS0UFjsNYjn"
-    authors: Dong Bok Lee, Dongchan Min, Seanie Lee, and Sung Ju Hwang
-    conference: ICLR 2021 (spotlight)
+      - title: "Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning"
+        link: "https://openreview.net/pdf?id=wS0UFjsNYjn"
+        authors: Dong Bok Lee, Dongchan Min, Seanie Lee, and Sung Ju Hwang
+        conference: ICLR 2021 (spotlight)
 
-  - title: "Meta-StyleSpeech: Multi-Speaker Adaptive Text-to-Speech Generation"
-    authors: Dongchan Min, Dong Bok Lee, Eunho Yang, and Sung Ju Hwang
-    conference: ICML 2021
+      - title: "Meta-StyleSpeech: Multi-Speaker Adaptive Text-to-Speech Generation"
+        authors: Dongchan Min, Dong Bok Lee, Eunho Yang, and Sung Ju Hwang
+        conference: ICML 2021
 
-  - title: "Dataset Condensation with Latent Space Knowledge Factorization and Sharing"
-    link: "https://arxiv.org/pdf/2208.10494.pdf"
-    authors: Hae Beom Lee∗, Dong Bok Lee∗, Sung Ju Hwang
-    conference: arXiv 2022
+      - title: "Dataset Condensation with Latent Space Knowledge Factorization and Sharing"
+        link: "https://arxiv.org/pdf/2208.10494.pdf"
+        authors: Hae Beom Lee∗, Dong Bok Lee∗, Sung Ju Hwang
+        conference: arXiv 2022
 
-  - title: "Self-Supervised Set Representation Learning for Unsupervised Meta-Learning"
-    link: "https://openreview.net/forum?id=kIAx30hYi_p"
-    authors: Dong Bok Lee*, Seanie Lee*, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, Sung Ju Hwang
-    conference: ICLR 2023
+      - title: "Self-Supervised Set Representation Learning for Unsupervised Meta-Learning"
+        link: "https://openreview.net/forum?id=kIAx30hYi_p"
+        authors: Dong Bok Lee*, Seanie Lee*, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, Sung Ju Hwang
+        conference: ICLR 2023
 
-  - title: "Self-Supervised Dataset Distillation for Transfer Learning"
-    link: "https://openreview.net/forum?id=h57gkDO2Yg"
-    authors: Dong Bok Lee*, Seanie Lee*, Joonho Ko, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang
-    conference: ICLR 2024
+      - title: "Self-Supervised Dataset Distillation for Transfer Learning"
+        link: "https://openreview.net/forum?id=h57gkDO2Yg"
+        authors: Dong Bok Lee*, Seanie Lee*, Joonho Ko, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang
+        conference: ICLR 2024
 
-  - title: "HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models"
-    link: "https://openreview.net/pdf?id=y3zswp3gek"
-    authors: Seanie Lee*, Haebin Seong*, Dong Bok Lee, Minki Kang, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, Sung Ju Hwang
-    conference: ICLR 2025
+      - title: "HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models"
+        link: "https://openreview.net/pdf?id=y3zswp3gek"
+        authors: Seanie Lee*, Haebin Seong*, Dong Bok Lee, Minki Kang, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, Sung Ju Hwang
+        conference: ICLR 2025
 
-  - title: "Dimensional Agnostic Neural Processes"
-    link: "https://openreview.net/pdf?id=uGJxl2odR0"
-    authors: Hyungi Lee, Chaeyun Jang, Dong Bok Lee, Juho Lee
-    conference: ICLR 2025
+      - title: "Dimensional Agnostic Neural Processes"
+        link: "https://openreview.net/pdf?id=uGJxl2odR0"
+        authors: Hyungi Lee, Chaeyun Jang, Dong Bok Lee, Juho Lee
+        conference: ICLR 2025
 
-  - title: "SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models"
-    link: "https://arxiv.org/abs/2502.12464"
-    authors: Seanie Lee*, Dong Bok Lee*, Dominik Wagner, Minki Kang, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang
-    conference: ACL 2025 Findings
+      - title: "SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models"
+        link: "https://arxiv.org/abs/2502.12464"
+        authors: Seanie Lee*, Dong Bok Lee*, Dominik Wagner, Minki Kang, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang
+        conference: ACL 2025 Findings
 
-  - title: "Bayesian Neural Scaling Law Extrapolation with Prior-Data Fitted Networks"
-    link: "https://arxiv.org/abs/2505.23032"
-    authors: Dongwoo Lee*, Dong Bok Lee*, Steven Adriaensen, Juho Lee, Sung Ju Hwang, Frank Hutter, Seon Joo Kim, Hae Beom Lee
-    conference: ICML 2025
+      - title: "Bayesian Neural Scaling Law Extrapolation with Prior-Data Fitted Networks"
+        link: "https://arxiv.org/abs/2505.23032"
+        authors: Dongwoo Lee*, Dong Bok Lee*, Steven Adriaensen, Juho Lee, Sung Ju Hwang, Frank Hutter, Seon Joo Kim, Hae Beom Lee
+        conference: ICML 2025
 
-  - title: "Cost-Sensitive Freeze-Thaw Bayesian Optimization for Efficient Hyperparameter Tuning"
-    link: "https://arxiv.org/abs/2510.21379"
-    authors: Dong Bok Lee, Aoxuan Silvia Zhang*, Byungjoo Kim*, Junhyeon Park*, Steven Adriaensen, Juho Lee, Sung Ju Hwang, Hae Beom Lee
-    conference: NeurIPS 2025
+      - title: "Cost-Sensitive Freeze-Thaw Bayesian Optimization for Efficient Hyperparameter Tuning"
+        link: "https://arxiv.org/abs/2510.21379"
+        authors: Dong Bok Lee, Aoxuan Silvia Zhang*, Byungjoo Kim*, Junhyeon Park*, Steven Adriaensen, Juho Lee, Sung Ju Hwang, Hae Beom Lee
+        conference: NeurIPS 2025
 
-  - title: "FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA"
-    link: "https://arxiv.org/abs/2505.12805"
-    authors: Seanie Lee*, Sangwoo Park*, Dong Bok Lee*, Dominik Wagner, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang
-    conference: NeurIPS 2025
+      - title: "FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA"
+        link: "https://arxiv.org/abs/2505.12805"
+        authors: Seanie Lee*, Sangwoo Park*, Dong Bok Lee*, Dominik Wagner, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang
+        conference: NeurIPS 2025
 
-  - title: "Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization"
-    link: "https://arxiv.org/abs/2505.07675"
-    authors: Seongjae Kang, Dong Bok Lee*, Hyungjoon Jang, Sung Ju Hwang
-    conference: arXiv 2025
+      - title: "Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization"
+        link: "https://arxiv.org/abs/2505.07675"
+        authors: Seongjae Kang, Dong Bok Lee*, Hyungjoon Jang, Sung Ju Hwang
+        conference: arXiv 2025
 
-  - title: "PCoreSet: Effective Active Learning through Knowledge Distillation from Vision-Language Models"
-    link: "https://arxiv.org/abs/2506.00910"
-    authors: Seongjae Kang, Dong Bok Lee*, Hyungjoon Jang, Sung Ju Hwang
-    conference: arXiv 2025
+      - title: "PCoreSet: Effective Active Learning through Knowledge Distillation from Vision-Language Models"
+        link: "https://arxiv.org/abs/2506.00910"
+        authors: Seongjae Kang, Dong Bok Lee*, Hyungjoon Jang, Sung Ju Hwang
+        conference: arXiv 2025
 
-  - title: "Automated Structured Radiology Report Generation with Rich Clinical Context"
-    link: "https://arxiv.org/abs/2510.00428"
-    authors: Seongjae Kang, Dong Bok Lee*, Juho Jung, Dongseop Kim, Won Hwa Kim, Sunghoon Joo
-    conference: arXiv 2025
+      - title: "Automated Structured Radiology Report Generation with Rich Clinical Context"
+        link: "https://arxiv.org/abs/2510.00428"
+        authors: Seongjae Kang, Dong Bok Lee*, Juho Jung, Dongseop Kim, Won Hwa Kim, Sunghoon Joo
+        conference: arXiv 2025
 
-  - title: "Rethinking Reward Models for Multi-Domain Test-Time Scaling"
-    link: "https://arxiv.org/abs/2510.00492"
-    authors: Dong Bok Lee*, Seanie Lee*, Sangwoo Park, Minki Kang, Jinheon Baek, Dongki Kim, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song
-    conference: arXiv 2025
+      - title: "Rethinking Reward Models for Multi-Domain Test-Time Scaling"
+        link: "https://arxiv.org/abs/2510.00492"
+        authors: Dong Bok Lee*, Seanie Lee*, Sangwoo Park, Minki Kang, Jinheon Baek, Dongki Kim, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song
+        conference: arXiv 2025
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
