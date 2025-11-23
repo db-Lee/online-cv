@@ -34,7 +34,7 @@ experiences:
       details: |
         Advised by [Lei Song](https://www.microsoft.com/en-us/research/people/lesong/)  
         and [Jiang Bian](https://www.microsoft.com/en-us/research/people/jiabia/)
-        - Multi-domain test-time scaling with reward models
+        - Large-scale reward modeling & test-time scaling
         - Online data selection
         
 education:
