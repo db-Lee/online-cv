@@ -26,7 +26,6 @@ career-profile:
     My research goal is to develop computationally and data-efficient machine learning models and algorithms for real-world applications, grounded in meta-learning and meta-modeling. I am particularly interested in extending these approaches to natural language processing, self-supervised learning, dataset condensation, hyperparameter optimization, AI safety, privacy, and multi-modal learning.
 
 experiences:
-  title: Experiences
   info:
   - role: Research Intern
     time: "2025.07.01 - 2025.12.27"
@@ -37,7 +36,6 @@ experiences:
         - Online data selection
 
 education:
-  title: Education
   info:
   - degree: Ph.D. in Artificial Intelligence
     university: Korea Advanced Institute of Science and Technology
