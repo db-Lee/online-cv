@@ -144,5 +144,10 @@ publications:
         authors: Dong Bok Lee*, Seanie Lee*, Sangwoo Park, Minki Kang, Jinheon Baek, Dongki Kim, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song
         conference: arXiv 2025
 
+      - title: "Rethinking Reward Models for Multi-Domain Test-Time Scaling"
+        link: "https://arxiv.org/abs/2510.00492"
+        authors: Dong Bok Lee*, Seanie Lee*, Sangwoo Park, Minki Kang, Jinheon Baek, Dongki Kim, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song
+        conference: arXiv 2025
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
